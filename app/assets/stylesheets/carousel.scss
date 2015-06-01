@@ -5,8 +5,20 @@
 .main-container {
   padding: 10px 15px;
 }
+
+body {
+  background-image: url("https://images.duckduckgo.com/iu/?u=http%3A%2F%2F4.bp.blogspot.com%2F_1BZgZVkngwU%2FTBzVKm07zjI%2FAAAAAAAAAIs%2FOzOqvn_7cpA%2Fs1600%2FSUNSET%2B(3).jpg&f=1");
+
+
+// added to have a max height for sliders
+.carousel-inner{
+  max-height: 500px;
+}
+
+}
 .skyblue {
   background-color: #22c8ff;
+  // background-color: #22c8ff;
 }
 .deepskyblue {
   background-color: #00bfff;
